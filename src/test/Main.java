@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         HashMap<String, String> map = new HashMap<>();
-        map.put("1", "2");
+        map.put("11", "2");
         map.put("3", "4");
         map.put("5", "6");
 
